@@ -1,3 +1,19 @@
 User-agent: *
 Allow: /
 Sitemap: https://headyfinance.com/sitemap.xml
+
+# AI Crawler Guidance
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# LLM context file
+# See: https://headyfinance.com/llms.txt

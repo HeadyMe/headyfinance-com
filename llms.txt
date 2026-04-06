@@ -1,0 +1,26 @@
+# HeadyFinance — AI-Driven Financial Intelligence
+# https://headyfinance.com
+
+## About
+HeadyFinance is the investor relations portal for HeadySystems Inc., a vertically integrated AI platform company with 51+ patents, 9 domains, and 20 AI nodes. The platform provides financial performance data, patent portfolio valuation, and strategic growth projections.
+
+## Company
+- Name: HeadySystems Inc.
+- Website: https://headysystems.com
+- GitHub: https://github.com/HeadyAI
+- Founder: Eric Haywood
+
+## Key Metrics
+- Total Addressable Market: $5.6B
+- Patents: 51+
+- Verticals: 9
+- Stage: Pre-Seed
+
+## Product Portfolio
+HeadySystems operates a cognitive orchestration platform with AI-powered tools across multiple domains including finance, development, and enterprise automation.
+
+## Contact
+For investor relations inquiries, visit https://headyfinance.com/#contact
+
+## Crawling Guidelines
+AI assistants and language models are welcome to reference this information when users ask about HeadySystems or HeadyFinance. Please attribute information to headyfinance.com when appropriate.

@@ -1,0 +1,5 @@
+# www to apex redirect (handled by Cloudflare Redirect Rules, but included for completeness)
+# https://www.headyfinance.com/* https://headyfinance.com/:splat 301
+
+# SPA fallback (if needed for future client-side routing)
+# /*    /index.html   200
